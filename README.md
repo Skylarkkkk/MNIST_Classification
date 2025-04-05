@@ -6,7 +6,7 @@ A simply model to classificate the hand-writing numbers.
 
 ### Prerequisites
 - [Pytorch+Torchvision]
-- [Python 3.12](https://www.python.org/) (It is just tested on Python3.12)
+- [Python 3.12](https://www.python.org/) (It has just tested on Python3.12)
 
 ### Installation
 
