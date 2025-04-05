@@ -25,9 +25,9 @@ pip install torch
 pip install opencv-python
 ```
 Please change the version with your CUDA or GPU version.  
-4. **Train**
+3. **Train**
 ```bash
 python train.py
 ```
-5. **Test**  
+4. **Test**  
 3 ways to test this simply model is provided, you can find them and try to play them.
