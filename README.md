@@ -25,7 +25,7 @@ pip install torch
 pip install opencv-python
 ```
 Please change the version with your CUDA or GPU version.
-3. **Train**
+  3. **Train**
 ```bash
 python train.py
 ```
