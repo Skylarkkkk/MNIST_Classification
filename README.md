@@ -17,14 +17,14 @@ cd MNIST_Classification
 ```
 
 2. **Install dependencies**
-You can find some way to install torch in [here]((https://pytorch.org/)) 
-"""bash
+You can find some way to install torch in [here](https://pytorch.org/).
+'''bash
 pip install torch
-"""
+'''
 Please change the version with your CUDA or GPU version.
-3. **Train**
-"""bash
+4. **Train**
+'''bash
 python train.py
-"""
-4. **Test**
+'''
+5. **Test**
 I provide 3 ways to test this simply model, you can find them and try to play them.
