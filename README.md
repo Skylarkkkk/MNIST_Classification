@@ -26,5 +26,5 @@ Please change the version with your CUDA or GPU version.
 ```bash
 python train.py
 ```
-5. **Test**
-I provide 3 ways to test this simply model, you can find them and try to play them.
+5. **Test**  
+3 ways to test this simply model is provided, you can find them and try to play them.
