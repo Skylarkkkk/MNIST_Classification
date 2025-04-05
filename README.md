@@ -6,6 +6,7 @@ A simply model to classificate the hand-writing numbers.
 
 ### Prerequisites
 - [Pytorch+Torchvision]
+- [Opencv]
 - [Python 3.12](https://www.python.org/) (It has just tested on Python3.12)
 
 ### Installation
@@ -19,9 +20,11 @@ cd MNIST_Classification
 2. **Install dependencies**
 You can find some way to install torch in [here](https://pytorch.org/).
 ```bash
+cd MNIST_Classification
 pip install torch
+pip install opencv-python
 ```
-Please change the version with your CUDA or GPU version.
+Please change the version with your CUDA or GPU version.  
 4. **Train**
 ```bash
 python train.py
