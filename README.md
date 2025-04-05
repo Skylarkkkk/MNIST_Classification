@@ -23,7 +23,7 @@ pip install torch
 """
 Please change the version with your CUDA or GPU version.
 3. **Train**
-"""Python
+"""bash
 python train.py
 """
 4. **Test**
