@@ -1,6 +1,6 @@
 # MNIST_Classification
 
-A simply model to classificate the hand-writing numbers.
+A simple model to classificate the hand-writing numbers.
 
 ## 🚀 Getting Started
 
@@ -30,4 +30,4 @@ Please change the version with your CUDA or GPU version.
 python train.py
 ```
 4. **Test**  
-3 ways to test this simply model is provided, you can find them and try to play them.
+3 ways to test this simple model is provided, you can find them and try to play them.
